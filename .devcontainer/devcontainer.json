@@ -1,0 +1,7 @@
+
+{
+  "build": { "dockerfile": "Dockerfile" },
+  "forwardPorts": [8000, 8080],
+  "updateContentCommand": "/update-codeprober.sh",
+  "postAttachCommand": "./start.sh"
+}
