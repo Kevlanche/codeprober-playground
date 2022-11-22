@@ -9,6 +9,6 @@ Open the playground in Codespaces by:
 3) Click the tab "Codespaces"
 4) Click the "+" or big green "Create Codespaces [..]" button
 
-It will load for a while. Once inside, CodeProber should start automatically. In the terminal, you can see a line containing "visit https://localhost:8000". Click the link while holding Ctrl(Windows/Linux) or Cmd(Mac). Alternatively, click the "Ports" tab next to the Terminal, locate the row for port 8000, click the little globe 🌐 that appears when you hover the row.
+It will load for a while. Once inside, CodeProber should start automatically. In the terminal, you can see a line containing "visit http://localhost:8000". Click the link while holding Ctrl(Windows/Linux) or Cmd(Mac). Alternatively, click the "Ports" tab next to the Terminal, locate the row for port 8000, click the little globe 🌐 that appears when you hover the row.
 
 You are now inside CodeProber, playing with IntraJ (https://github.com/lu-cs-sde/IntraJ).
