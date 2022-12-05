@@ -4,7 +4,7 @@ A playground for testing CodeProber (https://github.com/lu-cs-sde/codeprober/) w
 
 Open the playground in Codespaces by:
 
-1) Visit this repository on Github (https://github.com/Kevlanche/codeprober-playground)
+1) Visit this repository on Github on a laptop or desktop (phone/tablet isn't supported).
 2) Click the green "Code" button
 3) Click the tab "Codespaces"
 4) Click the "+" or big green "Create Codespaces [..]" button
