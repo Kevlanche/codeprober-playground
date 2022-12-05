@@ -2,7 +2,6 @@
 {
   "build": { "dockerfile": "Dockerfile" },
   "forwardPorts": [8000],
-  "updateContentCommand": "/update-codeprober.sh",
   "postAttachCommand": "./start.sh",
   "customizations": {
     "codespaces": {
