@@ -8,5 +8,8 @@
       "openFiles": ["README.md"]
     }
   },
-  "containerEnv": { "WEBSOCKET_SERVER_PORT": "http" }
+  "containerEnv": {
+    "WEBSOCKET_SERVER_PORT": "http",
+    "DISABLE_VERISON_CHECKER_BY_DEFAULT": "true"
+  }
 }
