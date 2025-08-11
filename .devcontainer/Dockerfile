@@ -7,3 +7,4 @@ ADD data/* /
 RUN chmod +x /start-codeprober.sh
 
 ENTRYPOINT ["/bin/bash"]
+

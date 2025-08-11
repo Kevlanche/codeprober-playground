@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "Starting CodeProber with IntraJ.."
-java -jar /code-prober.jar /intraj.jar -WDAA -WNPA -XparseOnly
+java -jar -Dcpr.workspace=example_exercises /codeprober.jar /intraj.jar -WDAA -WNPA -XparseOnly
