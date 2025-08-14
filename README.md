@@ -14,5 +14,5 @@ It will load for a while. Once inside, CodeProber should start automatically. In
 You are now inside CodeProber, playing with IntraJ (https://github.com/lu-cs-sde/IntraJ).
 
 There are a number of sample exercies/questions in the example_exercises/ directory which can be solved in CodeProber.
-Copy the source code from the txt files (everything above "-----------"), paste into CodeProber.
-Then try to use CodeProber to answer the question (found immediately below the line in the txt file).
+These files are visible in the left side of CodeProber under "workspace".
+Then try to use CodeProber to answer the question/challenge within each file.

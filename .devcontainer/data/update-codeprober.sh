@@ -19,4 +19,4 @@ if [ $? -eq 0 ]; then
 else
     echo "Error: Failed to download CodeProber"
     exit 1
-file
+fi
