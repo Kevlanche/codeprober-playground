@@ -10,7 +10,8 @@ The above code is taken from https://github.com/ExtendJ/Regression-Tests/blob/2c
 It is part of a test case that checks the type inference of the lambda expression "name -> name.length()".
 The original test is 77 lines of code.
 Try replicating that test using "text probes" with assertions, while keeping the file 7 lines of code or less.
- 
+Text probes are documented here: https://codeprober.org/docs/usage/features.html#text-probe
+
 NOTE: This is fairly hard to figure out by yourself. If you want to try then please stop reading now.
       Otherwise, keep reading. The steps below will show step by step how to insert the test.
       After each step you have the opportunity to try solving the rest yourself, or read on for the solution.
